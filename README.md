@@ -1,4 +1,10 @@
-<h2 align="left"> Hi I'm Dhushyanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h2>
+
+
+<h2 align="left"> Hi I'm Dhushyanth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="40"> </h2>
+
+
+
+
 
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Dhushyanth-Huliyurdurga-Manjunath)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhushyanth-h-m/)
