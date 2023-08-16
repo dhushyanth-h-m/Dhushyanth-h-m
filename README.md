@@ -19,13 +19,11 @@
 <br/>
 
 ## Stats
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" />
 
 ## Leetcode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret)
 ### Languages Used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
