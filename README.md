@@ -18,9 +18,10 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" />
-  <img src="https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" width="400" height="200" />
+  <img src="https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret" width="400" height="200" />
 </p>
+
 
 ### Languages Used
 
