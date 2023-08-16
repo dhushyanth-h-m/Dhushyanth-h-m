@@ -44,9 +44,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 ### Visitor Count
 
