@@ -5,7 +5,6 @@
 
 
 
-
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Dhushyanth-Huliyurdurga-Manjunath)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhushyanth-h-m/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:dhushyanthhm10@gmail.com)
@@ -15,7 +14,6 @@
 - I’m currently learning everything
 - Pronouns: He/Him
 - Learning and growing every day
-
 <br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" width="500" height="300" />
@@ -33,7 +31,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### Visitor Count
 
