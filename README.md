@@ -17,13 +17,11 @@
 - Learning and growing every day
 
 <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" />
+  <img src="https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret" />
+</p>
 
-## Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" />
-
-## Leetcode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret)
 ### Languages Used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
