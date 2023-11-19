@@ -5,7 +5,7 @@
 
 
 
-[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Dhushyanth-Huliyurdurga-Manjunath)
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dhushyanth-h-m)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhushyanth-h-m/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:dhushyanthhm10@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/Dhushyanth21/)
