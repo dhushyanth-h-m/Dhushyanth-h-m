@@ -16,7 +16,7 @@
 - Learning and growing every day
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-Huliyurdurga-Manjunath" width="500" height="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-h-m" width="500" height="300" />
   <img src="https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret" width="500" height="300" />
 </p>
 
