@@ -10,8 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:dhushyanthhm10@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/Dhushyanth21/)
 
-- I’m currently pursuing MS in Computer Engineering
-- I’m currently learning everything
+- I’m currently pursuing my Masters in Computer Engineering
 - Pronouns: He/Him
 - Learning and growing every day
 <br/>
