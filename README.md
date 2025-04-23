@@ -1,36 +1,48 @@
+# Hey there, I'm Dhushyanth! 🚀
 
+Welcome to my little corner of GitHub! I’m a Software Engineer with a knack for building systems that are fast, secure, and user-friendly. I’ve got a Master’s in Computer Engineering from UT Arlington, and I’m all about diving deep into code—whether it’s crafting mobile apps, tinkering with kernel modules, or optimizing cloud pipelines. Let’s build something awesome together!
 
-<h2 align="left"> Hi I'm Dhushyanth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="40"> </h2>
+- **Currently**: Crafting cool stuff at The Soco App Corp
+- **Passion**: Turning complex problems into elegant solutions
+- **Fun Fact**: I can debug code faster than I can brew coffee (and I’m pretty quick with a coffee maker!)
 
+## What Drives Me
 
+I’m fascinated by how technology can transform lives. From speeding up Bluetooth connections for a social app to designing real-time packet sniffers, I love the thrill of pushing boundaries. My journey has taken me from low-level system programming to high-flying cloud architectures, and I’m always learning something new. Got a challenging idea? I’m game!
 
+## My Tech Toolbox 🛠️
 
-[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/dhushyanth-h-m)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhushyanth-h-m/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:dhushyanth.manjunath@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/Dhushyanth21/)
+Here’s a peek at the tools and tech I wield to bring ideas to life:
 
-- I recently graduated with a Master's degree in Computer Engineering from UT Arlington
-- Pronouns: He/Him
-- Learning and growing every day
-<br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhushyanth-h-m" width="500" height="300" />
-  <img src="https://leetcard.jacoblin.cool/dhushyanth21?theme=dark&font=Noto%20Sans%20Deseret" width="500" height="300" />
-</p>
+- **Languages I Speak**: C++, Python, Swift, Java, JavaScript (and a few more!)
+- **Cloud & DevOps Magic**: AWS, Azure, Docker, Kubernetes, GitHub Actions
+- **Data Wrangling**: PostgreSQL, Firebase Firestore, MySQL
+- **Frameworks & More**: TensorFlow, Spark, JIRA, and a love for Agile workflows
+- **Superpower**: Optimizing systems for speed and scale
 
+## Cool Things I’ve Built
 
-### Languages Used
+Here are a few projects I’m proud of. Check them out and let me know what you think!
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Packet Processing Beast**: A C++ packet sniffer that chews through over a million packets per second. I optimized it with zero-copy buffers to keep CPU usage low even under crazy network loads. Real-time analysis? Nailed it!
+- **Elevator System on Steroids**: A multi-threaded simulation in C++ that manages thousands of requests without breaking a sweat. Bonus: It’s hooked up with PostgreSQL and GitHub Actions for seamless updates.
+- **Kernel-Level Network Wizardry**: A Linux kernel module for filtering TCP packets at lightning speed. I fine-tuned it to handle half a million packets per second with minimal latency.
 
-### Visitor Count
+(Want to see the code? Click the repo links in my profile!)
 
-![Visitor Count](https://profile-counter.glitch.me/{Dhushyanth-Huliyurdurga-Manjunath}/count.svg)
+## What’s Next?
+
+I’m currently exploring the intersection of AI and system performance—think machine learning models that optimize real-time systems. I’m also open to collaborating on open-source projects or just geeking out over the latest tech trends. If you’ve got an idea or a project, hit me up!
+
+## Let’s Connect! 🌐
+
+I’d love to chat about software engineering, AI, or even the best debugging horror stories. Drop me a message or follow me for updates on my latest experiments.
+
+- **GitHub**: You’re already here! Star a repo if you like what you see.
+- **Other Platforms**: <--- <-- <- Look to your left for links to my LinkedIn!
+
+## A Little Inspiration
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for stopping by! Let’s make the digital world a better place, one line of code at a time. 😊
