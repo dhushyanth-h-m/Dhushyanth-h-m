@@ -1,4 +1,4 @@
-# Hey there, I'm Dhushyanth! 🚀
+# Hey there, I'm Dhushyanth! 
 
 Welcome to my little corner of GitHub! I’m a Software Engineer with a knack for building systems that are fast, secure, and user-friendly. I’ve got a Master’s in Computer Engineering from UT Arlington, and I’m all about diving deep into code—whether it’s crafting mobile apps, tinkering with kernel modules, or optimizing cloud pipelines. Let’s build something awesome together!
 
@@ -34,7 +34,7 @@ Here are a few projects I’m proud of. Check them out and let me know what you 
 
 I’m currently exploring the intersection of AI and system performance—think machine learning models that optimize real-time systems. I’m also open to collaborating on open-source projects or just geeking out over the latest tech trends. If you’ve got an idea or a project, hit me up!
 
-## Let’s Connect! 🌐
+## Let’s Connect! 
 
 I’d love to chat about software engineering, AI, or even the best debugging horror stories. Drop me a message or follow me for updates on my latest experiments.
 
