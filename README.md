@@ -10,7 +10,7 @@ Welcome to my little corner of GitHub! I’m a Software Engineer with a knack fo
 
 I’m fascinated by how technology can transform lives. From speeding up Bluetooth connections for a social app to designing real-time packet sniffers, I love the thrill of pushing boundaries. My journey has taken me from low-level system programming to high-flying cloud architectures, and I’m always learning something new. Got a challenging idea? I’m game!
 
-## My Tech Toolbox 🛠️
+## My Tech Toolbox
 
 Here’s a peek at the tools and tech I wield to bring ideas to life:
 
@@ -45,4 +45,4 @@ I’d love to chat about software engineering, AI, or even the best debugging ho
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Thanks for stopping by! Let’s make the digital world a better place, one line of code at a time. 😊
+Thanks for stopping by!
